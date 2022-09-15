@@ -4,7 +4,13 @@
   <img src="https://media.giphy.com/media/l2JhGYxcjMcKqiaHu/giphy.gif" width="200"/>
 </div>
 
-<div id="badges" align="center">
+-->
+
+<h3>
+  Hi there. 👋
+</h3>
+
+<div id="badges">
   <a href="mailto: huahaing@pku.edu.cn">
     <img src="https://img.shields.io/badge/Email-huahaing@pku.edu.cn-orange?logo=Minutemailer&logoColor=blue&style=flat-square"/>
   </a>
@@ -13,14 +19,9 @@
   </a>
 </div>
 
-<h3 align="center">
-  Hi there. 👋
-</h3>
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=1SAA&count_private=true&show_icons=true&theme=monokai)](https://github.com/1SAA)
 
-<h5 align="center">
-  I don't have a twitter account for some reason. Please use my e-mail to contact me.
-</h5>
-
+<!--
 
 **1SAA/1SAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
