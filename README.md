@@ -1,14 +1,10 @@
-<!--
+Hi, this Haichen! 👋
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/l2JhGYxcjMcKqiaHu/giphy.gif" width="200"/>
 </div>
 
--->
-
-<h3>
-  Hi there. 👋
-</h3>
+<!--
 
 <div id="badges">
   <a href="mailto: huahaing@pku.edu.cn">
@@ -21,18 +17,15 @@
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=1SAA&count_private=true&show_icons=true&theme=monokai)](https://github.com/1SAA)
 
-<!--
-
 **1SAA/1SAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+**About Me**
+
+- 🔭 I am currently employed as a software engineer in HPC-AI. My area of expertise lies in the efficient large-scale training of LLMs (large language models).
+- 💪 I am currently devoting myself to democratizing the training of LLMs. See my project Elixir.
+- 🌱 I am currently interested in DL (deep learning) compilers, sparse training, quantization, and other technologies to pump up the use of LLMs on edge devices.
+- 🤔 As I pursue my research career, I am actively seeking out opportunities for research collaborations.
